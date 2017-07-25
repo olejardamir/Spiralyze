@@ -1,0 +1,104 @@
+/* Add additional stylesheets below
+-------------------------------------------------- */
+h7{
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 42px;
+}
+
+
+h8{
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 48px;
+}
+
+
+
+h9 {
+font-size: 24px;
+color: #ee4023;
+}
+
+h10{
+font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: #fff;
+font-size: 36px;
+text-align: center;
+}
+
+
+.storiesHeader1 {
+font-size: 48px;
+color: #0f0f0f;
+}
+
+
+.storiesHeader2 {
+font-size: 24px;
+color: #0f0f0f;
+}
+
+.sideText {
+font-size: 18px;
+color: #0f0f0f;
+}
+
+
+.mssg1{
+background: #000;
+padding: 25px;
+background: rgba(0,0,0,0.6);
+text-align: center;
+}
+
+.bttmHeader2 {
+font-size: 24px;
+color: #fff;
+}
+
+.footerBg{
+background-image: url("../img/geometric-band.jpg");
+height: 110px;
+max-width: 1000px;
+}
+
+.bttnstle{
+font-size:20px;
+color:#ee4023;
+}
+
+.bttnCstm{
+float: left;
+}
+
+
+.trialBttn{
+border-radius: 0;
+background: #f00;
+height: 34px;
+color: #fff;
+font-weight: 700;
+border-color: #000;
+padding: 5px;
+}
+
+.txtfld{
+border-radius: 0;
+border: 1px solid #000;
+}
+
+.whiteText{
+color: #fff!important;
+}
+
+.bottomLinks{
+text-align:center;
+padding-top:45px;
+}
+
+.startBttn{
+    background: #f00;
+    color: #fff;
+    border-radius: 0;
+    border: 1px solid #000;
+    font-size: 16px;
+}
